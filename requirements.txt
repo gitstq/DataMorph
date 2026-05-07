@@ -1,0 +1,7 @@
+# DataMorph - Zero Dependencies
+# All parsers are implemented using Python standard library
+# No external dependencies required
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
